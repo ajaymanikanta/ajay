@@ -1,4 +1,10 @@
 enter the first line
 enter the second line
 enter the third line
+<<<<<<< HEAD
 
+=======
+enter the fourth line
+enter the fifth line
+enter the sixth line
+>>>>>>> 77e97682722b7d812c326bf866b00b1aa88bfa5d
